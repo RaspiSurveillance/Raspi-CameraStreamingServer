@@ -1,0 +1,4 @@
+*/**/__pycache__
+*/**/logs
+scripts_generated/start_camerastream.sh
+scripts_generated/stop_camerastream.sh

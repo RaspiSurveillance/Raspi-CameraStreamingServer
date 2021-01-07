@@ -1,0 +1,21 @@
+{
+    "server": {
+        "url": "",
+        "port": 4444,
+        "certfile": "",
+        "keyfile": ""
+    },
+    "on_device": true,
+    "camera": {
+        "resolution_width": 1280,
+        "resolution_height": 720,
+        "resolution_str": "{}x{}",
+        "rotation_degrees": 0,
+        "framerate": 10,
+        "awb": "auto",
+        "filter": "none"
+    },
+    "html": {
+        "index": "resources/index.html.tmpl"
+    }
+}
